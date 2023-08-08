@@ -3,7 +3,7 @@ body{
     background-color:  hsl(217, 54%, 11%);
 }
 header{
- padding:20px 0px;
+ padding:45px 0px;
 }
 .heading{
     color:white;
@@ -21,7 +21,7 @@ header{
 .card{
     display: flex;
     flex-direction: column;
-    padding:25px 20px;
+    padding:30px 30px;
     background-color:hsl(216, 50%, 16%);
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     width:200px;
